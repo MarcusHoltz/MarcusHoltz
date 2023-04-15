@@ -7,7 +7,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Systems Engineer
-├─▣ General Fun Guy
+├─▣ Generally Fun Guy
 ├─▣ <a href="https://marcusholtz.github.io/">My Blog</a>
 ├─▣ I am mostly available at <a href="https://holtzweb.com/">Holtzweb</a>
 │

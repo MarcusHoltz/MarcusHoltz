@@ -8,7 +8,7 @@
 │
 ├─▣ Systems Engineer
 ├─▣ Generally Fun Guy
-├─▣ <a href="https://marcusholtz.github.io/">Technical projects blog</a>
+├─▣ <a href="https://blog.holtzweb.com/">Technical projects blog</a>
 ├─▣ More info available at <a href="https://holtzweb.com/">Holtzweb</a>
 │
 └───────────────────────────────▰▰▰

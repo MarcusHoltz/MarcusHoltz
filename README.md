@@ -8,8 +8,8 @@
 │
 ├─▣ Systems Engineer
 ├─▣ Generally Fun Guy
-├─▣ <a href="https://marcusholtz.github.io/">My Blog</a>
-├─▣ I am mostly available at <a href="https://holtzweb.com/">Holtzweb</a>
+├─▣ <a href="https://marcusholtz.github.io/">Technical projects blog</a>
+├─▣ More info available at <a href="https://holtzweb.com/">Holtzweb</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -27,7 +27,7 @@
 │
 ├─◈ <a href="https://github.com/MarcusHoltz/resume-generator">Dockerized Pandoc Resume Generator</a>
 ├─◈ <a href="https://github.com/MarcusHoltz/tmux-screen-rotate">TTY0 Tmux System Info Shuffler</a>
-├─◈ <a href="https://marcusholtz.github.io/Proxmox">New Proxmox Install</a>
+├─◈ <a href="https://marcusholtz.github.io/proxmox">Proxmox Install and Configuration</a>
 ├─◈ <a href="https://nextcloud.sofree.us/index.php/s/6ntcY6iyDSnyLBZ">Browser Security Presentation</a>
 ├─◈ <a href="https://www.holtzweb.com/openwrt-presentation.html">OpenWRT Router Firmware Presenation</a>
 │

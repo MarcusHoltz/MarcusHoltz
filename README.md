@@ -10,6 +10,7 @@
 ├─▣ Generally Fun Guy
 ├─▣ <a href="https://blog.holtzweb.com/">Technical projects blog</a>
 ├─▣ More info available at <a href="https://holtzweb.com/">Holtzweb</a>
+├─◈ Business Card:  curl -sL holtzweb.com/card
 │
 └───────────────────────────────▰▰▰
 
@@ -20,7 +21,6 @@
 ├─◈ <a href="https://mattermost.sofree.us/sfs303/messages/@marcus">Mattermost</a>
 ├─◈ <a href="https://www.youtube.com/@vvwvwwvvwvwvvw">YouTube</a>
 ├─◈ <a href="https://www.facebook.com/DepartmentofDefense">Facebook</a>
-├─◈ Business Card: `curl -sL holtzweb.com/card`
 │
 └───────────────────────────────▰▰▰
 

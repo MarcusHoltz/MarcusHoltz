@@ -10,7 +10,7 @@
 ├─▣ Generally Fun Guy
 ├─▣ <a href="https://blog.holtzweb.com/">Technical projects blog</a>
 ├─▣ More info available at <a href="https://holtzweb.com/">Holtzweb</a>
-├─◈ Business Card:  curl -sL holtzweb.com/card
+├─▣ Business Card:  curl -sL holtzweb.com/card
 │
 └───────────────────────────────▰▰▰
 
@@ -26,11 +26,11 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/MarcusHoltz/resume-generator">Dockerized Pandoc Resume Generator</a>
-├─◈ <a href="https://github.com/MarcusHoltz/tmux-screen-rotate">TTY0 Tmux System Info Shuffler</a>
-├─◈ <a href="https://marcusholtz.github.io/proxmox">Proxmox Install and Configuration</a>
-├─◈ <a href="https://is.gd/browserprivacy">Browser Security Presentation</a>
-├─◈ <a href="https://www.holtzweb.com/openwrt-presentation.html">OpenWRT Router Firmware Presenation</a>
+├─◉ <a href="https://github.com/MarcusHoltz/resume-generator">Dockerized Pandoc Resume Generator</a>
+├─◉ <a href="https://github.com/MarcusHoltz/tmux-screen-rotate">TTY0 Tmux System Info Shuffler</a>
+├─◉ <a href="https://marcusholtz.github.io/proxmox">Proxmox Install and Configuration</a>
+├─◉ <a href="https://is.gd/browserprivacy">Browser Security Presentation</a>
+├─◉ <a href="https://www.holtzweb.com/openwrt-presentation.html">OpenWRT Router Firmware Presenation</a>
 │
 └───────────────────────────────▰▰▰
 </pre>

@@ -17,7 +17,6 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="mailto:marcusaholtz+github@gmail.com">Email</a>
-├─◈ <a href="marcus.07">Signal</a>
 ├─◈ <a href="https://mattermost.sofree.us/sfs303/messages/@marcus">Mattermost</a>
 ├─◈ <a href="https://www.youtube.com/@vvwvwwvvwvwvvw">YouTube</a>
 ├─◈ <a href="https://www.facebook.com/DepartmentofDefense">Facebook</a>

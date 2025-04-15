@@ -17,7 +17,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="mailto:marcusaholtz+github@gmail.com">Email</a>
-├─◈ <a href="https://mattermost.sofree.us/sfs303/messages/@marcus">Mattermost</a>
+├─◈ <a href="https://linkedin.com/in/marcus-holtz">LinkedIn</a>
 ├─◈ <a href="https://www.youtube.com/@vvwvwwvvwvwvvw">YouTube</a>
 ├─◈ <a href="https://www.facebook.com/DepartmentofDefense">Facebook</a>
 │
@@ -27,8 +27,9 @@
 │
 ├─◉ <a href="https://github.com/MarcusHoltz/resume-generator">Dockerized Pandoc Resume Generator</a>
 ├─◉ <a href="https://github.com/MarcusHoltz/tmux-screen-rotate">TTY0 Tmux System Info Shuffler</a>
-├─◉ <a href="https://marcusholtz.github.io/proxmox">Proxmox Install and Configuration</a>
-├─◉ <a href="https://is.gd/browserprivacy">Browser Security Presentation</a>
+├─◉ <a href="https://github.com/MarcusHoltz/DNS-photo-download">Download my photo using DNS</a>
+├─◉ <a href=https://github.com/MarcusHoltz/tor-hidden-service">Tor hidden service with vanity .onion address</a>
+├─◉ <a href="https://blog.holtzweb.com/posts/browsers-web-browser-privacy/">Web Browser Privacy Presentation</a>
 ├─◉ <a href="https://www.holtzweb.com/openwrt-presentation.html">OpenWRT Router Firmware Presenation</a>
 │
 └───────────────────────────────▰▰▰

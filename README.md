@@ -133,13 +133,6 @@
 
 * * *
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcusholtz&hide_border=true&theme=tokyonight&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusholtz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-* * *
-
 <pre>
 
 ┌──┤ EXIT ├───────────▰▰▰
